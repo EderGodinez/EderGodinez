@@ -4,7 +4,7 @@
 </p>
 
 
-# Hi there, I'm Eder Godinez 👋
+#  I'm Eder Godinez 👋
 
 ### 💻 Full Stack MEAN Developer | JavaScript Enthusiast | Problem Solver
 
