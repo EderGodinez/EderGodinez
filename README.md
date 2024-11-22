@@ -4,21 +4,38 @@
 </p>
 
 
+# Hi there, I'm Eder Godinez 👋
 
-**EderGodinez/EderGodinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Full Stack MEAN Developer | JavaScript Enthusiast | Problem Solver
 
-Here are some ideas to get you started:
+I'm a passionate Full Stack Developer specializing in MEAN stack (MongoDB, Express.js, Angular, Node.js). I enjoy building scalable web applications and turning complex problems into simple, beautiful solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 About Me
+
+- 🔭 I'm currently working on developing robust web applications
+- 🌱 I'm currently learning cloud architecture and microservices
+- 👯 I'm looking to collaborate on open source JavaScript projects
+- 💬 Ask me about anything related to MEAN stack development
+- ⚡ Fun fact: I love turning coffee into code ☕
 
 <hr>
+
+### 📞 &nbsp; Contact me
+
+<div id="badges">
+<a href="https://www.linkedin.com/in/eder-yair-godinez-salazar/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="https://wa.me/3921067869?text=Hi%20Eder!%20I%20saw%20your%20GitHub%20profile%20and%20would%20like%20to%20connect">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Youtube Badge"/>
+</a>
+<a href="mailto:eder.godinez26@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge"/>
+</a>
+<a href="https://leetcode.com/u/EderGodinez/">
+  <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="Youtube Badge"/>
+</a>
+</div>
 
 ### 🛠 &nbsp; Tech Stack
 
@@ -30,37 +47,37 @@ Here are some ideas to get you started:
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Reservations Tren Maya App</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/EderGodinez/TrenMaya" target="_blank"><img src="https://github.com/EderGodinez/EderGodinez/blob/main/images/tren-maya.png" width="400" alt="tren maya"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/EderGodinez/TrenMaya" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-white?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+<a href="https://trenmaya.netlify.app/TrenMaya/Home" target="_blank">
+<img src="https://img.shields.io/badge/Web-black?style=for-the-badge&logo=html5&logoColor=white">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Website of train ticket booking system designed to make it easier for users to purchase tickets for train travel. With an intuitive interface and advanced functionalities, RailBooker offers a hassle-free experience for planning and booking train journeys on various routes and schedules.</p>
 </div>
                                                                                       
 </td>
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">E-Commerce SimplementeFlow</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/EderGodinez/SimplementeFlow" target="_blank"><img src="https://github.com/EderGodinez/EderGodinez/blob/main/images/simplemente-flow.png" width="400" alt="simplemente flow"></a>
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/EderGodinez/SimplementeFlow" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-white?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+<a href="https://simplemente-flow.netlify.app/SimplementeFlow/Home" target="_blank">
+<img src="https://img.shields.io/badge/Web-black?style=for-the-badge&logo=html5&logoColor=white">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>E-Commerce website for the online sale of tennis shoes from the SimplementeFlow store with an interface that allows its users the possibility of consulting the site catalog, as well as registering and placing orders, in addition to consulting their previous purchases and, on the part of the administrator, allowing changes to be made to the merchandise</p>
 </div>                                                             
 </table>                                                                                 
 </div>
@@ -68,39 +85,23 @@ Here are some ideas to get you started:
 
 <table>
 <tr>
-<td width="50%">
-<h3 align="center">Curso Android Intermedio</h3>
+<td width="100%">
+<h3 align="center">Real Time Chat App</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="" width="400" alt="Curso intermedio Android"></a>
+<a href="https://github.com/EderGodinez/ChatApp" target="_blank"><img src="https://github.com/EderGodinez/EderGodinez/blob/main/images/Real-time-chat.png" width="100%" alt="Real time chat"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/EderGodinez/ChatApp" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-white?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+<a href="https://time-chat.netlify.app" target="_blank">
+<img src="https://img.shields.io/badge/Web-black?style=for-the-badge&logo=html5&logoColor=white">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+<p>System that allows users to log in to some of the most popular applications (Facebook, Github and Google) in a secure manner, as well as search for other registered users and chat with them in real time.</p>
 </div>
                                                                                       
 </td>       
 
-<td width="50%">
-<h3 align="center">Curso Kotlin Multiplatform</h3>
-<div align="center">
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="" width="400" alt="Curso Kotlin Multiplatform"></a>
-<p>
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
-</a>
-</p>
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
-</div>
-                                                                                      
-</td>  
 </table>                                                                                 
 </div>
 <br>
