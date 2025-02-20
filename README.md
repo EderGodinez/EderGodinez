@@ -6,15 +6,16 @@
 
 #  I'm Eder Godinez 👋
 
-### 💻 Full Stack MEAN Developer | JavaScript Enthusiast | Problem Solver
+### 💻 Full Stack Developer specializing in MEAN stack (MongoDB, Express.js, Angular, Node.js) and Java technologies. 
 
-I'm a passionate Full Stack Developer specializing in MEAN stack (MongoDB, Express.js, Angular, Node.js). I enjoy building scalable web applications and turning complex problems into simple, beautiful solutions.
+I'm a Passionate about crafting efficient, scalable web solutions and turning complex challenges into elegant code. Currently exploring cloud architecture and microservices while building robust web applications. 
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on developing robust web applications
+- 💻 Key focus: Full Stack Development & Problem Solving
+- 🔧 Tech enthusiast who loves learning new technologies
 - 🌱 I'm currently learning cloud architecture and microservices
-- 👯 I'm looking to collaborate on open source JavaScript projects
+- 💡 Open to collaborate on challenging projects
 - 💬 Ask me about anything related to MEAN stack development
 - ⚡ Fun fact: I love turning coffee into code ☕
 
