@@ -45,67 +45,9 @@ I'm a Passionate about crafting efficient, scalable web solutions and turning co
 |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> | <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="boostrap" width="40"> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kafka.svg" alt="kafka" width="50"> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"> | <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/vuejs-auto.svg" alt="heroku" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40"> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"> | <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="postman" width="40"> |  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/nestjs-auto.svg" alt="postman" width="50"> |  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/react-light.svg" alt="postman" width="50"> |   <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/docker.svg" alt="postman" width="50"> |   <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/fastapi.svg" alt="postman" width="50"> |  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt="postman" width="50"> |  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="postman" width="50"> |
 
 ## Featured projects
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Reservations Tren Maya App</h3>
-<div align="center">
-<a href="https://github.com/EderGodinez/TrenMaya" target="_blank"><img src="https://github.com/EderGodinez/EderGodinez/blob/main/images/tren-maya.png" width="400" alt="tren maya"></a>
-<p>
-<a href="https://github.com/EderGodinez/TrenMaya" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-white?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://trenmaya.netlify.app/TrenMaya/Home" target="_blank">
-<img src="https://img.shields.io/badge/Web-black?style=for-the-badge&logo=html5&logoColor=white">
-</a>
-</p>
-<p>Website of train ticket booking system designed to make it easier for users to purchase tickets for train travel. With an intuitive interface and advanced functionalities, RailBooker offers a hassle-free experience for planning and booking train journeys on various routes and schedules.</p>
-</div>
+
                                                                                       
-</td>
 
-<td width="50%">
-               <br>
-<h3 align="center">E-Commerce SimplementeFlow</h3>
-<div align="center">                                       
-<a href="https://github.com/EderGodinez/SimplementeFlow" target="_blank"><img src="https://github.com/EderGodinez/EderGodinez/blob/main/images/simplemente-flow.png" width="400" alt="simplemente flow"></a>
-<br>
-<p>
-<a href="https://github.com/EderGodinez/SimplementeFlow" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-white?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://simplemente-flow.netlify.app/SimplementeFlow/Home" target="_blank">
-<img src="https://img.shields.io/badge/Web-black?style=for-the-badge&logo=html5&logoColor=white">
-</a>
-</p>
-</p>E-Commerce website for the online sale of tennis shoes from the SimplementeFlow store with an interface that allows its users the possibility of consulting the site catalog, as well as registering and placing orders, in addition to consulting their previous purchases and, on the part of the administrator, allowing changes to be made to the merchandise</p>
-</div>                                                             
-</table>                                                                                 
-</div>
-<br>
-
-<table>
-<tr>
-<td width="100%">
-<h3 align="center">Real Time Chat App</h3>
-<div align="center">
-<a href="https://github.com/EderGodinez/ChatApp" target="_blank"><img src="https://github.com/EderGodinez/EderGodinez/blob/main/images/Real-time-chat.png" width="100%" alt="Real time chat"></a>
-<p>
-<a href="https://github.com/EderGodinez/ChatApp" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-white?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://time-chat.netlify.app" target="_blank">
-<img src="https://img.shields.io/badge/Web-black?style=for-the-badge&logo=html5&logoColor=white">
-</a>
-</p>
-<p>System that allows users to log in to some of the most popular applications (Facebook, Github and Google) in a secure manner, as well as search for other registered users and chat with them in real time.</p>
-</div>
-                                                                                      
-</td>       
-
-</table>                                                                                 
-</div>
-<br>
 
 
 
